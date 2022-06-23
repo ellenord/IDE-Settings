@@ -1,4 +1,6 @@
 <list display="trsyytrywrh">
   <action id="RiderOpenSolution" />
   <action id="EditorCut" />
+  <action id="QuickList.$Separator$" />
+  <action id="CheckinProject" />
 </list>
