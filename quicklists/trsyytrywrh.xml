@@ -3,4 +3,8 @@
   <action id="EditorCut" />
   <action id="QuickList.$Separator$" />
   <action id="CheckinProject" />
+  <action id="EditorKillRingSave" />
+  <action id="EditorReverseLines" />
+  <action id="FillParagraph" />
+  <action id="ConfigureEditorTabs" />
 </list>
