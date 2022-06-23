@@ -31,7 +31,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
   <action id="ActivateRunToolWindow">
-    <keyboard-shortcut first-keystroke="shift ctrl r" />
+    <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateTerminalToolWindow">
@@ -80,7 +80,9 @@
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl c" />
   </action>
   <action id="ChooseDebugConfiguration" />
-  <action id="ChooseRunConfiguration" />
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
   <action id="CloneCaretAboveWithVirtualSpace" />
   <action id="CloneCaretBelowWithVirtualSpace" />
   <action id="CloseActiveTab" />
@@ -541,9 +543,15 @@
     <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="RunClass" />
+  <action id="RunDashboard.Debug">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
   <action id="RunInspection" />
   <action id="RunJsbtTask" />
   <action id="RunToCursor" />
+  <action id="RunToolbarDebugProcess">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
   <action id="RunToolbarMainMultipleStopAction">
     <keyboard-shortcut first-keystroke="f12" />
   </action>
@@ -719,6 +727,9 @@
   <action id="foo_bar" />
   <action id="lines.copyLine">
     <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="mainRunToolbarDebugProcess">
+    <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="org.intellij.plugins.markdown.ui.actions.styling.InsertImageAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
