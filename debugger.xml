@@ -105,14 +105,17 @@
           <option name="processExceptionsOutsideMyCode" value="true" />
           <option name="showCompilerGeneratedMembers" value="true" />
           <option name="showRawNodeForDebuggerBrowsableValues" value="true" />
+          <option name="userUnhandledExceptionsIgnoreList">
+            <list>
+              <option value="System.OperationCanceledException" />
+              <option value="System.Threading.Tasks.TaskCanceledException" />
+              <option value="System.Threading.ThreadAbortException" />
+              <option value="Xunit.Sdk.EqualException" />
+            </list>
+          </option>
           <option name="sshCredentials">
             <option value="&lt;credentials HOST=&quot;localhost&quot; PORT=&quot;42009&quot; USERNAME=&quot;D3T92AbI&quot; PRIVATE_KEY_FILE=&quot;&quot; USE_KEY_PAIR=&quot;false&quot; USE_OPENSSH_CONFIG=&quot;false&quot; USE_AUTH_AGENT=&quot;false&quot; /&gt;" />
           </option>
-        </configuration>
-      </debugger>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation />
         </configuration>
       </debugger>
     </debuggers>
