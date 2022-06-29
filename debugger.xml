@@ -111,6 +111,7 @@
               <option value="System.Threading.Tasks.TaskCanceledException" />
               <option value="System.Threading.ThreadAbortException" />
               <option value="Xunit.Sdk.EqualException" />
+              <option value="MT4Terminal.Exceptions.TimeoutException" />
             </list>
           </option>
           <option name="sshCredentials">
