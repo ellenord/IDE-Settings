@@ -23,25 +23,29 @@
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
-        <entry key="Asxx" value="true" />
+        <entry key="Asxx" value="false" />
         <entry key="BashPro Shell Script" value="true" />
         <entry key="C#" value="true" />
-        <entry key="C++" value="true" />
-        <entry key="CSS" value="true" />
+        <entry key="C++" value="false" />
+        <entry key="CSS" value="false" />
         <entry key="Config" value="true" />
-        <entry key="HTML" value="true" />
+        <entry key="HTML" value="false" />
         <entry key="JSON" value="true" />
-        <entry key="JavaScript" value="true" />
-        <entry key="MSBuild" value="true" />
+        <entry key="JavaScript" value="false" />
+        <entry key="LESS" value="false" />
+        <entry key="MSBuild" value="false" />
         <entry key="Markdown" value="true" />
-        <entry key="Resx" value="true" />
-        <entry key="RuleSet" value="true" />
-        <entry key="SQL" value="true" />
-        <entry key="TypeScript" value="true" />
-        <entry key="VB" value="true" />
-        <entry key="XHTML" value="true" />
+        <entry key="Resx" value="false" />
+        <entry key="RuleSet" value="false" />
+        <entry key="SASS" value="false" />
+        <entry key="SCSS" value="false" />
+        <entry key="SQL" value="false" />
+        <entry key="Stylus" value="false" />
+        <entry key="TypeScript" value="false" />
+        <entry key="VB" value="false" />
+        <entry key="XHTML" value="false" />
         <entry key="XML" value="true" />
-        <entry key="yaml" value="true" />
+        <entry key="yaml" value="false" />
       </map>
     </option>
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
@@ -70,13 +74,23 @@
       </set>
     </option>
   </component>
-  <component name="JsonEditorOptions">
-    <option name="COMMA_ON_ENTER" value="false" />
-    <option name="COMMA_ON_MATCHING_BRACES" value="false" />
-    <option name="COMMA_ON_PASTE" value="false" />
-    <option name="AUTO_QUOTE_PROP_NAME" value="false" />
-    <option name="AUTO_WHITESPACE_AFTER_COLON" value="false" />
+  <component name="JSEditorOptions">
     <option name="ESCAPE_PASTED_TEXT" value="false" />
+    <option name="CONVERT_HTML_TO_JSX" value="false" />
+    <option name="ESCAPE_DOC_ON_COPY_PASTE" value="false" />
+  </component>
+  <component name="JsonEditorOptions">
+    <option name="COLON_MOVE_OUTSIDE_QUOTES" value="true" />
+    <option name="COMMA_MOVE_OUTSIDE_QUOTES" value="true" />
+  </component>
+  <component name="SqlCodeCompletionSettings" USE_ALIAS_JOIN_COMPLETION="false" NON_STRICT_FOREIGN_KEYS="false" SUGGEST_ALIAS_NAMES="false">
+    <option name="suggestAliasNames" value="false" />
+    <option name="supportNonStrictForeignKeys" value="false" />
+    <option name="useAliasInJoinCompletion" value="false" />
+  </component>
+  <component name="SqlEditorOptions">
+    <option name="closeBlocksOnEnter" value="false" />
+    <option name="concatenateStringsOnEnter" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern icon="important" useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;PLANNED)(\W|$)(.*)">
@@ -112,6 +126,9 @@
       <option name="BACKGROUND" value="3f3f3f" />
       <option name="FONT_TYPE" value="3" />
     </pattern>
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="selectWholeCssIdentifierOnDoubleClick" value="false" />
   </component>
   <component name="YamlEditorOptions">
     <option name="useSmartPaste" value="false" />
