@@ -272,7 +272,9 @@
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
-  <action id="FindNext" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="FindPrevWordAtCaret" />
   <action id="FindPrevious" />
   <action id="FindUsages" />
