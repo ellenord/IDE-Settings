@@ -182,7 +182,9 @@
   <action id="DumpLookupElementWeights" />
   <action id="DumpMLCompletionFeatures" />
   <action id="EditBreakpoint" />
-  <action id="EditSource" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
   <action id="EditSourceInNewWindow" />
   <action id="EditorAddCaretPerSelectedLine" />
   <action id="EditorAddOrRemoveCaret" />
@@ -487,6 +489,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
   <action id="Refresh" />
+  <action id="RemoteHostView.EditSource">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
   <action id="Rerun" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f11" />
@@ -502,7 +507,9 @@
   <action id="RiderCoveringTestsPopupRunAllAction" />
   <action id="RiderCoveringTestsPopupRunSelectedAction" />
   <action id="RiderDebuggerApplyEncChagnes" />
-  <action id="RiderEditSource" />
+  <action id="RiderEditSource">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
   <action id="RiderExpandCollapse" />
   <action id="RiderNuGetQuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl alt n" />
@@ -713,7 +720,9 @@
   <action id="ViewBreakpoints">
     <keyboard-shortcut first-keystroke="ctrl b" second-keystroke="ctrl s" />
   </action>
-  <action id="ViewSource" />
+  <action id="ViewSource">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="ctrl alt dead_grave" />
   </action>
