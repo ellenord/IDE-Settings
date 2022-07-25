@@ -694,7 +694,9 @@
   <action id="UsageView.Remove">
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
-  <action id="UsageView.ShowRecentFindUsages" />
+  <action id="UsageView.ShowRecentFindUsages">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
   <action id="Vcs.EditSource">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
