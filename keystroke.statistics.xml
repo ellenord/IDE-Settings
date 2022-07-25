@@ -1,0 +1,21 @@
+<application>
+  <component name="KeystrokeStatistics">
+    <option name="startAt" value="1658782221959" />
+    <years>
+      <map>
+        <entry key="2022">
+          <value>
+            <map>
+              <entry key="206" value="1" />
+            </map>
+          </value>
+        </entry>
+        <entry key="2023">
+          <value>
+            <map />
+          </value>
+        </entry>
+      </map>
+    </years>
+  </component>
+</application>
