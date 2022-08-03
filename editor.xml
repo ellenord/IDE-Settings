@@ -59,6 +59,7 @@
     <option name="IS_WHEEL_FONTCHANGE_PERSISTENT" value="true" />
     <option name="REFRAIN_FROM_SCROLLING" value="true" />
     <option name="BIDI_TEXT_DIRECTION" value="RTL" />
+    <option name="INSERT_PARENTHESES_AUTOMATICALLY" value="true" />
   </component>
   <component name="InlayHintsSettings">
     <option name="disabledHintProviderIds">
