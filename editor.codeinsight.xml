@@ -8,7 +8,7 @@
     <option name="collapseCodeBlocks" value="true" />
   </component>
   <component name="RiderCodeCompletionExtraSettings">
-    <option name="filterByEditorBrowsable" value="Show Normal and Advanced members" />
+    <option name="filterByEditorBrowsable" value="Show Normal members only" />
     <option name="hasNotifiedAboutCompletingWithEnter" value="true" />
     <option name="hasNotifiedAboutCompletingWithSpace" value="true" />
   </component>
