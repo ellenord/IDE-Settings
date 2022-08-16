@@ -71,8 +71,10 @@
     <option name="disabledLanguages">
       <set>
         <option value="ObjectiveC" />
+        <option value="SQL" />
       </set>
     </option>
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
   <component name="JSEditorOptions">
     <option name="ESCAPE_PASTED_TEXT" value="false" />
