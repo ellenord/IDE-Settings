@@ -1,0 +1,6 @@
+<application>
+  <component name="MQL4.PluginSettings">
+    <option name="useEnDocs" value="false" />
+    <option name="enDocs" value="false" />
+  </component>
+</application>
