@@ -88,7 +88,7 @@
   </component>
   <component name="XDebuggerSettings">
     <data-views>
-      <option name="valueLookupDelay" value="64" />
+      <option name="valueLookupDelay" value="150" />
     </data-views>
     <general>
       <option name="hideDebuggerOnProcessTermination" value="true" />
@@ -117,14 +117,6 @@
           <option name="sshCredentials">
             <option value="&lt;credentials HOST=&quot;localhost&quot; PORT=&quot;42009&quot; USERNAME=&quot;D3T92AbI&quot; PRIVATE_KEY_FILE=&quot;&quot; USE_KEY_PAIR=&quot;false&quot; USE_OPENSSH_CONFIG=&quot;false&quot; USE_AUTH_AGENT=&quot;false&quot; /&gt;" />
           </option>
-        </configuration>
-      </debugger>
-      <debugger id="ObjectiveC">
-        <configuration>
-          <option name="LLDB_NATVIS_DIAGNOSTICS_LEVEL" value="Verbose" />
-          <nt-symbol-settings />
-          <option name="SHOW_FRAME_FUNCTION_TEMPLATE_ARGUMENTS" value="true" />
-          <option name="SHOW_FRAME_MODULE_NAME" value="true" />
         </configuration>
       </debugger>
     </debuggers>
