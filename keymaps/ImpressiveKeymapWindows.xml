@@ -218,6 +218,7 @@
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
   <action id="EditorMatchBrace" />
+  <action id="EditorPasteFromX11" />
   <action id="EditorPasteSimple" />
   <action id="EditorRightWithSelection">
     <keyboard-shortcut first-keystroke="shift right" />
@@ -578,6 +579,9 @@
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl d" />
   </action>
   <action id="SaveAll" />
+  <action id="Scratch.ShowFilesPopup">
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
