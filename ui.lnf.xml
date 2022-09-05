@@ -12,6 +12,7 @@
     <option name="OPEN_TABS_AT_THE_END" value="true" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
     <option name="SHOW_DIRECTORY_FOR_NON_UNIQUE_FILENAMES" value="false" />
+    <option name="SHOW_EDITOR_TOOLTIP" value="false" />
     <option name="SHOW_PINNED_TABS_IN_A_SEPARATE_ROW" value="true" />
     <option name="showTreeIndentGuides" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
