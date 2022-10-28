@@ -1,16 +1,138 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+  </component>
   <component name="CodeInsightSettings">
-    <option name="completionCaseSensitive" value="2" />
     <option name="selectAutopopupSuggestionsByChars" value="true" />
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <option name="PARAMETER_INFO_DELAY" value="512" />
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
-    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="JAVADOC_INFO_DELAY" value="512" />
     <option name="SELECT_AUTOPOPUP_SUGGESTIONS_BY_CHARS" value="true" />
     <option name="AUTOCOMPLETE_ON_CODE_COMPLETION" value="false" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="AUTOREPARSE_DELAY" value="128" />
+    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="Asxx" value="false" />
+        <entry key="BashPro Shell Script" value="true" />
+        <entry key="C#" value="true" />
+        <entry key="C++" value="true" />
+        <entry key="CSS" value="false" />
+        <entry key="Config" value="true" />
+        <entry key="HTML" value="false" />
+        <entry key="JSON" value="true" />
+        <entry key="JavaScript" value="false" />
+        <entry key="LESS" value="false" />
+        <entry key="MSBuild" value="false" />
+        <entry key="Markdown" value="true" />
+        <entry key="Resx" value="false" />
+        <entry key="RuleSet" value="false" />
+        <entry key="SASS" value="false" />
+        <entry key="SCSS" value="false" />
+        <entry key="SQL" value="false" />
+        <entry key="Stylus" value="false" />
+        <entry key="TypeScript" value="false" />
+        <entry key="VB" value="false" />
+        <entry key="XHTML" value="false" />
+        <entry key="XML" value="true" />
+        <entry key="yaml" value="false" />
+      </map>
+    </option>
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="STRIP_TRAILING_SPACES" value="None" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
+    <option name="TOOLTIPS_DELAY_MS" value="128" />
+    <option name="CARET_BLINKING_PERIOD" value="128" />
+    <option name="IS_BLOCK_CURSOR" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_PERSISTENT" value="true" />
+    <option name="REFRAIN_FROM_SCROLLING" value="true" />
+    <option name="ADD_CARETS_ON_DOUBLE_CTRL" value="false" />
+    <option name="BIDI_TEXT_DIRECTION" value="RTL" />
+    <option name="INSERT_PARENTHESES_AUTOMATICALLY" value="true" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JavaScript.js.type.hints" />
+        <option value="Rust.chain-method.hints" />
+        <option value="Rust.rust.type.hints" />
+      </set>
+    </option>
+    <option name="disabledLanguages">
+      <set>
+        <option value="ObjectiveC" />
+        <option value="SQL" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
+  <component name="JSEditorOptions">
+    <option name="ESCAPE_PASTED_TEXT" value="false" />
+    <option name="CONVERT_HTML_TO_JSX" value="false" />
+    <option name="ESCAPE_DOC_ON_COPY_PASTE" value="false" />
+  </component>
+  <component name="JsonEditorOptions">
+    <option name="COLON_MOVE_OUTSIDE_QUOTES" value="true" />
+    <option name="COMMA_MOVE_OUTSIDE_QUOTES" value="true" />
+  </component>
+  <component name="SqlCodeCompletionSettings" USE_ALIAS_JOIN_COMPLETION="false" NON_STRICT_FOREIGN_KEYS="false" SUGGEST_ALIAS_NAMES="false">
+    <option name="suggestAliasNames" value="false" />
+    <option name="supportNonStrictForeignKeys" value="false" />
+    <option name="useAliasInJoinCompletion" value="false" />
+  </component>
+  <component name="SqlEditorOptions">
+    <option name="closeBlocksOnEnter" value="false" />
+    <option name="concatenateStringsOnEnter" value="false" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern icon="important" useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;PLANNED)(\W|$)(.*)">
+      <option name="FOREGROUND" value="3f7fff" />
+      <option name="BACKGROUND" value="3f3f3f" />
+      <option name="FONT_TYPE" value="3" />
+    </pattern>
+    <pattern icon="important" useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;DISCUSSED)(\W|$)(.*)">
+      <option name="FOREGROUND" value="ff7f1f" />
+      <option name="BACKGROUND" value="3f3f3f" />
+      <option name="FONT_TYPE" value="3" />
+    </pattern>
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
+    <pattern icon="important" useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;IGNORED)(\W|$)(.*)">
+      <option name="FOREGROUND" value="ff3f1f" />
+      <option name="BACKGROUND" value="3f3f3f" />
+      <option name="FONT_TYPE" value="3" />
+    </pattern>
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
+    <pattern pattern="\bNotImplementedException\b" />
+    <pattern icon="important" useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;COMPLETED)(\W|$)(.*)">
+      <option name="FOREGROUND" value="3fff1f" />
+      <option name="BACKGROUND" value="3f3f3f" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="EFFECT_TYPE" value="5" />
+    </pattern>
+    <pattern useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;SPECIFIC)(\W|$)(.*)">
+      <option name="FOREGROUND" value="ffeb95" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern icon="important" useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;PROGRESSED)(\W|$)(.*)">
+      <option name="FOREGROUND" value="ffff7f" />
+      <option name="BACKGROUND" value="3f3f3f" />
+      <option name="FONT_TYPE" value="3" />
+    </pattern>
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="selectWholeCssIdentifierOnDoubleClick" value="false" />
+  </component>
+  <component name="YamlEditorOptions">
+    <option name="useSmartPaste" value="false" />
   </component>
 </application>
