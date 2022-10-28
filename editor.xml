@@ -58,7 +58,6 @@
     <option name="REFRAIN_FROM_SCROLLING" value="true" />
     <option name="ADD_CARETS_ON_DOUBLE_CTRL" value="false" />
     <option name="BIDI_TEXT_DIRECTION" value="RTL" />
-    <option name="INSERT_PARENTHESES_AUTOMATICALLY" value="true" />
   </component>
   <component name="InlayHintsSettings">
     <option name="disabledHintProviderIds">
