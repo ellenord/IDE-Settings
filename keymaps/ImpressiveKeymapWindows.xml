@@ -470,7 +470,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
   </action>
   <action id="ReSharperGotoContainingDeclaration" />
-  <action id="ReSharperGotoImplementation" />
+  <action id="ReSharperGotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
   <action id="ReSharperGotoNextErrorInSolution">
     <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
