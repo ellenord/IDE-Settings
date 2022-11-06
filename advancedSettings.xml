@@ -2,7 +2,13 @@
   <component name="AdvancedSettings">
     <option name="settings">
       <map>
+        <entry key="debugger.max.recent.expressions" value="128" />
+        <entry key="documentation.components.enable.highlighting.of.links" value="true" />
         <entry key="documentation.components.enable.inline.code.highlighting" value="true" />
+        <entry key="editor.maximize.in.splits.on.double.click" value="true" />
+        <entry key="ide.max.recent.projects" value="64" />
+        <entry key="ide.usages.page.size" value="128" />
+        <entry key="localHistory.daysToKeep" value="8" />
         <entry key="se.text.search" value="true" />
         <entry key="vcs.annotations.preload" value="true" />
       </map>
