@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="python" />
       <option name="PARAMETERS" value="qswitch.py $FilePath$ $SelectionStartLine$ $SelectionStartColumn$ $SelectionEndLine$ $SelectionEndColumn$ qswitch.rules " />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/plugins" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/ellen/plugins" />
     </exec>
   </tool>
 </toolSet>
