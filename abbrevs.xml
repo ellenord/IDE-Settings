@@ -2,7 +2,6 @@
   <component name="AbbreviationManager">
     <abbreviations>
       <action id="ShowUmlDiagram" />
-      <action id="EditorDeleteLine" />
     </abbreviations>
   </component>
 </application>

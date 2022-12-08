@@ -33,9 +33,6 @@
   <action id="ActivateRunToolWindow">
     <keyboard-shortcut first-keystroke="f9" />
   </action>
-  <action id="ActivateScreenCodeProToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl quote" />
-  </action>
   <action id="ActivateStatisticToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
@@ -350,7 +347,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="GotoSuperMethod">
-    <keyboard-shortcut first-keystroke="ctrl alt home" />
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="alt s" />
@@ -473,9 +470,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
   </action>
   <action id="ReSharperGotoContainingDeclaration" />
-  <action id="ReSharperGotoImplementation">
-    <keyboard-shortcut first-keystroke="ctrl up" />
-  </action>
+  <action id="ReSharperGotoImplementation" />
   <action id="ReSharperGotoNextErrorInSolution">
     <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
@@ -587,9 +582,6 @@
   <action id="Scratch.ShowFilesPopup">
     <mouse-shortcut keystroke="button2" />
   </action>
-  <action id="ScreenCodePro.Copy">
-    <keyboard-shortcut first-keystroke="alt quote" />
-  </action>
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
@@ -685,9 +677,6 @@
     <keyboard-shortcut first-keystroke="ctrl b" second-keystroke="enter" />
   </action>
   <action id="ToggleTemporaryLineBreakpoint" />
-  <action id="Tool_External Tools_qswitch">
-    <keyboard-shortcut first-keystroke="ctrl alt q" />
-  </action>
   <action id="Tree-startEditing" />
   <action id="TurnOffF10WinShortcut" />
   <action id="TypeHierarchy" />
