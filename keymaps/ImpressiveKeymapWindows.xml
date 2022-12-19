@@ -347,7 +347,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="GotoSuperMethod">
-    <keyboard-shortcut first-keystroke="ctrl alt down" />
+    <keyboard-shortcut first-keystroke="ctrl alt page_down" />
   </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="alt s" />
