@@ -99,9 +99,13 @@
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
   <action id="CodeInspection.OnEditor" />
-  <action id="CodeStream.AddComment" />
+  <action id="CodeStream.AddComment">
+    <keyboard-shortcut first-keystroke="shift alt c" />
+  </action>
   <action id="CodeStream.CopyPermalink" />
-  <action id="CodeStream.CreateIssue" />
+  <action id="CodeStream.CreateIssue">
+    <keyboard-shortcut first-keystroke="shift alt i" />
+  </action>
   <action id="CodeStream.CreateReview" />
   <action id="CodeStream.GetPermalink" />
   <action id="CodeStream.NewMergeRequest" />
