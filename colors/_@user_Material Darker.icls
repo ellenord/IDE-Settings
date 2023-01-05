@@ -4,7 +4,7 @@
     <property name="created">2021-08-07T01:29:05</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2022-09-11T08:15:57</property>
+    <property name="modified">2023-01-05T09:55:11</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -457,7 +457,6 @@
       <value>
         <option name="FOREGROUND" value="f78c6c" />
         <option name="EFFECT_COLOR" value="f78c6c" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -3698,8 +3697,6 @@
         <option name="FOREGROUND" value="616161" />
       </value>
     </option>
-    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
-    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bd92ea" />
