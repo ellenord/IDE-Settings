@@ -1,5 +1,6 @@
 <application>
   <component name="RainbowSettings">
+    <option name="indentGuidesOptions" value="Only selected indent guide" />
     <option name="numberOfColors" value="4" />
     <option name="rainbowVariablesOptionShowed" value="true" />
     <option name="suppressBigFileCheck" value="true" />
