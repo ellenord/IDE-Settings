@@ -56,6 +56,7 @@
     <option name="REFRAIN_FROM_SCROLLING" value="true" />
     <option name="ADD_CARETS_ON_DOUBLE_CTRL" value="false" />
     <option name="BIDI_TEXT_DIRECTION" value="RTL" />
+    <option name="INSERT_PARENTHESES_AUTOMATICALLY" value="true" />
   </component>
   <component name="InlayHintsSettings">
     <option name="disabledHintProviderIds">
@@ -92,9 +93,15 @@
     <option name="concatenateStringsOnEnter" value="false" />
   </component>
   <component name="TodoConfiguration">
-    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
+    <pattern icon="important" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;PLANNED)(\W|$)(.*)" />
+    <pattern icon="important" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;DISCUSSED)(\W|$)(.*)" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
+    <pattern icon="important" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;IGNORED)(\W|$)(.*)" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
     <pattern pattern="\bNotImplementedException\b" />
+    <pattern icon="important" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;COMPLETED)(\W|$)(.*)" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;SPECIFIC)(\W|$)(.*)" />
+    <pattern icon="important" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;PROGRESSED)(\W|$)(.*)" />
   </component>
   <component name="XmlEditorOptions">
     <option name="selectWholeCssIdentifierOnDoubleClick" value="false" />

@@ -44,9 +44,6 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
-  <action id="Activategithub.copilotToolWindowToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl alt g" />
-  </action>
   <action id="AddToFavoritesPopup" />
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
@@ -102,13 +99,9 @@
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
   <action id="CodeInspection.OnEditor" />
-  <action id="CodeStream.AddComment">
-    <keyboard-shortcut first-keystroke="shift alt c" />
-  </action>
+  <action id="CodeStream.AddComment" />
   <action id="CodeStream.CopyPermalink" />
-  <action id="CodeStream.CreateIssue">
-    <keyboard-shortcut first-keystroke="shift alt i" />
-  </action>
+  <action id="CodeStream.CreateIssue" />
   <action id="CodeStream.CreateReview" />
   <action id="CodeStream.GetPermalink" />
   <action id="CodeStream.NewMergeRequest" />
@@ -354,7 +347,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="GotoSuperMethod">
-    <keyboard-shortcut first-keystroke="ctrl alt page_down" />
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="alt s" />
