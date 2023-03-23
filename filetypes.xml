@@ -5,6 +5,7 @@
       <mapping pattern="51.195.160.61-443.sym" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="srv" type="PLAIN_TEXT" />
+      <mapping ext="qrc" type="XML" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="bat" approved="true" type="Bat" />
       <removed_mapping ext="cmd" approved="true" type="Cmd" />
