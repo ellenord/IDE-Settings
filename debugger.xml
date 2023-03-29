@@ -99,6 +99,7 @@
         <configuration>
           <option name="automaticallyRefreshWatches" value="true" />
           <option name="breakOnUserUnhandledExceptions" value="true" />
+          <option name="evaluationTimeoutMs" value="512" />
           <option name="groupNonPublicMembers" value="true" />
           <option name="ignorePrecompiledAssemblies" value="true" />
           <option name="needNotifyWhenStoppedInExternalCode" value="false" />
@@ -117,6 +118,11 @@
           <option name="sshCredentials">
             <option value="&lt;credentials HOST=&quot;localhost&quot; PORT=&quot;42009&quot; USERNAME=&quot;D3T92AbI&quot; PRIVATE_KEY_FILE=&quot;&quot; USE_KEY_PAIR=&quot;false&quot; USE_OPENSSH_CONFIG=&quot;false&quot; USE_AUTH_AGENT=&quot;false&quot; /&gt;" />
           </option>
+        </configuration>
+      </debugger>
+      <debugger id="ObjectiveC">
+        <configuration>
+          <nt-symbol-settings />
         </configuration>
       </debugger>
     </debuggers>
