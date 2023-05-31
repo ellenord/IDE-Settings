@@ -2,6 +2,5 @@
   <component name="CodeStream">
     <option name="firstRun" value="false" />
     <option name="serverUrl" value="https://codestream-us1.service.newrelic.com" />
-    <option name="teamId" value="6288123a123e97f0bb0d91a2" />
   </component>
 </application>
