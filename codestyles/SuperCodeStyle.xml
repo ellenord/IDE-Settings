@@ -1,1 +1,4 @@
-<code_scheme name="SuperCodeStyle" version="173" />
+<code_scheme name="SuperCodeStyle" version="173">
+  <option name="RIGHT_MARGIN" value="256" />
+  <option name="SOFT_MARGINS" value="128" />
+</code_scheme>
