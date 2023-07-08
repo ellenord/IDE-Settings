@@ -345,6 +345,7 @@
   <action id="GotoPreviousError" />
   <action id="GotoRelated">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
+    <keyboard-shortcut first-keystroke="ctrl alt page_down" />
   </action>
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="ctrl alt down" />

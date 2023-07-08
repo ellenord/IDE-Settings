@@ -1,11 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="compactFields" value="true" />
-    <option name="compactMenus" value="true" />
-    <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
-    <option name="customTreeIndentEnabled" value="true" />
-    <option name="styledDirectories" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="isActiveBoldTab" value="true" />
@@ -24,11 +19,11 @@
     <option name="useMaterialWallpapers" value="true" />
     <option name="indicatorStyle" value="Dot" />
     <option name="customListItemsSize" value="24" />
-    <option name="settingsSelectedTab" value="3" />
-    <option name="tabsHeight" value="16" />
+    <option name="tabsHeight" value="24" />
     <option name="accentColor" value="ffd866" />
     <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="userId" value="-22050c3a:17b8d351779:-7ffa" />
-    <option name="version" value="8.4.1" />
+    <option name="version" value="8.7.1" />
+    <option name="tabFont" value="JetBrains Mono" />
   </component>
 </application>
