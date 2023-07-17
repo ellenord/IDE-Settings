@@ -4,8 +4,8 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-jfugcmhqorcqhmtc-VTKnP1._adb-tls-connect._tcp" />
+            <type value="SERIAL_NUMBER" />
+            <value value="jfugcmhqorcqhmtc" />
           </Key>
         </key>
         <name value="Xiaomi 21081111RG" />
@@ -15,8 +15,8 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="jfugcmhqorcqhmtc" />
+            <type value="DOMAIN_NAME" />
+            <value value="adb-jfugcmhqorcqhmtc-VTKnP1._adb-tls-connect._tcp" />
           </Key>
         </key>
         <name value="Xiaomi 21081111RG" />
