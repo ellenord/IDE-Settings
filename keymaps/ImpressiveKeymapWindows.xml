@@ -749,6 +749,12 @@
   <action id="context.clear" />
   <action id="context.load" />
   <action id="context.save" />
+  <action id="copilot.cycleNextInlays">
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
+  </action>
+  <action id="copilot.cyclePrevInlays">
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
   <action id="double.quote" />
   <action id="fooBar1" />
   <action id="foo_bar" />
