@@ -4,6 +4,7 @@
       <map>
         <entry key="actions" value="NOT_PASSED" />
         <entry key="basic completion" value="NOT_PASSED" />
+        <entry key="code completion" value="NOT_PASSED" />
         <entry key="codeassistance.codeformatting" value="NOT_PASSED" />
         <entry key="codeassistance.editorcodingassistance" value="NOT_PASSED" />
         <entry key="codeassistance.localhistory" value="NOT_PASSED" />
@@ -36,6 +37,7 @@
         <entry key="recent files and locations" value="NOT_PASSED" />
         <entry key="refactorings.extractmethod" value="NOT_PASSED" />
         <entry key="refactorings.rename" value="NOT_PASSED" />
+        <entry key="rider.refactoring.menu" value="NOT_PASSED" />
         <entry key="search everywhere" value="NOT_PASSED" />
         <entry key="select" value="NOT_PASSED" />
         <entry key="smart type completion" value="NOT_PASSED" />
