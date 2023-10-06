@@ -4,7 +4,7 @@
     <property name="created">2021-07-09T05:58:59</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.1.3.0.0</property>
-    <property name="modified">2023-10-05T10:20:00</property>
+    <property name="modified">2023-10-06T16:46:13</property>
     <property name="originalScheme">Material Deep Ocean</property>
     <property name="partialSave">true</property>
     <property name="rainbow Default language">true</property>
@@ -12,7 +12,7 @@
   <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="10" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
