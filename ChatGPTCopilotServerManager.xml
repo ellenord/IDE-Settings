@@ -1,6 +1,7 @@
 <application>
   <component name="ChatGPTCopilotServerManager">
     <selected>-1</selected>
+    <ping>true</ping>
     <copilots />
   </component>
 </application>
