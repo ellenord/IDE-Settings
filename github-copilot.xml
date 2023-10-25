@@ -4,6 +4,27 @@
     <languageAllowList>
       <map>
         <entry key="*" value="true" />
+        <entry key="CassandraQL" value="false" />
+        <entry key="Derby" value="false" />
+        <entry key="Exasol" value="false" />
+        <entry key="GenericSQL" value="false" />
+        <entry key="HiveQL" value="false" />
+        <entry key="MariaDB" value="false" />
+        <entry key="MySQL" value="false" />
+        <entry key="MySQL based" value="false" />
+        <entry key="Oracle" value="false" />
+        <entry key="OracleSqlPlus" value="false" />
+        <entry key="PostgreSQL" value="false" />
+        <entry key="SQL" value="false" />
+        <entry key="SQL92" value="false" />
+        <entry key="SQLite" value="false" />
+        <entry key="SVG" value="false" />
+        <entry key="Scmp" value="false" />
+        <entry key="Snowflake" value="false" />
+        <entry key="SparkSQL" value="false" />
+        <entry key="Sybase" value="false" />
+        <entry key="VB" value="false" />
+        <entry key="Vertica" value="false" />
       </map>
     </languageAllowList>
   </component>
