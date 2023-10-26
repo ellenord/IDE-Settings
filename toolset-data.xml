@@ -2,6 +2,7 @@
   <component name="ToolsetData">
     <option name="convert_common_left" value="https://auto.ria.com/uk/auto_ваз / lada_model_2112_35462255.html" />
     <option name="convert_common_right" value="https://auto.ria.com/uk/auto_%D0%B2%D0%B0%D0%B7%20/%20lada_model_2112_35462255.html" />
+    <option name="encrypt_digest_input" value="kek" />
     <option name="generate_mima" value="@Ye#YIEj2$" />
     <option name="generate_mima_length" value="10" />
     <option name="generate_uuid" value="d21f82c7f1784feab5fa7453940ef4f2" />
