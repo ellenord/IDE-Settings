@@ -1,12 +1,23 @@
 <application>
   <component name="ToolsetData">
-    <option name="convert_common_left" value="https://auto.ria.com/uk/auto_ваз / lada_model_2112_35462255.html" />
-    <option name="convert_common_right" value="https://auto.ria.com/uk/auto_%D0%B2%D0%B0%D0%B7%20/%20lada_model_2112_35462255.html" />
+    <option name="data_init" value="true" />
+    <option name="convert_common_left" value="error" />
+    <option name="convert_common_right" value="k+/eLgz9NLt0vJZAaA1Q0Sanyn1NWwhi448CH2313aI=" />
     <option name="encrypt_digest_input" value="kek" />
     <option name="generate_mima" value="@Ye#YIEj2$" />
     <option name="generate_mima_length" value="10" />
     <option name="generate_uuid" value="d21f82c7f1784feab5fa7453940ef4f2" />
+    <option name="generate_snowflake" value="1724492405955723264" />
     <option name="qrcode_left" value="Hello Toolset" />
     <option name="jwt_secret_key" value="your-secret-key" />
+    <option name="noteList">
+      <list>
+        <NoteData>
+          <option name="id" value="43ab61a9889147298781d7399e01614e" />
+          <option name="title" value="Note0" />
+          <option name="content" value="" />
+        </NoteData>
+      </list>
+    </option>
   </component>
 </application>
