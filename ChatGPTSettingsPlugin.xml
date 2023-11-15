@@ -1,0 +1,37 @@
+<application>
+  <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
+    <option name="accessToken" value="eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik1UaEVOVUpHTkVNMVFURTRNMEZCTWpkQ05UZzVNRFUxUlRVd1FVSkRNRU13UmtGRVFrRXpSZyJ9.eyJodHRwczovL2FwaS5vcGVuYWkuY29tL3Byb2ZpbGUiOnsiZW1haWwiOiJlbGxlbm9yZC56ZWxsZXJhdHVtbUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZX0sImh0dHBzOi8vYXBpLm9wZW5haS5jb20vYXV0aCI6eyJwb2lkIjoib3JnLU4xNjMzUjdBMHc1UXM5cmxRZ0l4aGRTUyIsInVzZXJfaWQiOiJ1c2VyLTBUN3RRS3NXeEc5bnZuQ1JXbkthYXp2eCJ9LCJpc3MiOiJodHRwczovL2F1dGgwLm9wZW5haS5jb20vIiwic3ViIjoiZ29vZ2xlLW9hdXRoMnwxMTY4MjY2NDAwOTg4MDM1OTk4MzUiLCJhdWQiOlsiaHR0cHM6Ly9hcGkub3BlbmFpLmNvbS92MSIsImh0dHBzOi8vb3BlbmFpLm9wZW5haS5hdXRoMGFwcC5jb20vdXNlcmluZm8iXSwiaWF0IjoxNjk5OTc5NjIwLCJleHAiOjE3MDA4NDM2MjAsImF6cCI6IlRkSkljYmUxNldvVEh0Tjk1bnl5d2g1RTR5T282SXRHIiwic2NvcGUiOiJvcGVuaWQgcHJvZmlsZSBlbWFpbCBtb2RlbC5yZWFkIG1vZGVsLnJlcXVlc3Qgb3JnYW5pemF0aW9uLnJlYWQgb3JnYW5pemF0aW9uLndyaXRlIG9mZmxpbmVfYWNjZXNzIn0.gkEywJfTnd8prPVZmd8EZKQNqALtGwVIwi4cbqLGAm-fGLz_yh7knTsCkEpSzSK0xi6y2SsuNQa7M-e69IJnnk--H68TAW8-0UbzGVTYqxPZ4OLUzV7J3jt90XHZXS2e_JFO4doniDsChrznd26o0SKLiA28z4HP69pMlmCcVW016To2gs_8hXcO37cqOGOiZTfBWMMZvsTF7QNlNaQoe8jo3b1R9wPhLwSmND_4bF9Np2fIGFbicy8rZvEtzw2ZjabJq1pnaFOxMtX6CSDn8pLeLzs6wMYoFh7C5VRHxahRw4VE2T88JsNmRAUnhZNDgZ5KR6wYPXXAyZ-d0WGRRw" />
+    <option name="expireTime" value="2024-02-13T11:51:18.165Z" />
+    <option name="apiKey" value="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" />
+    <option name="chatGptModel" value="gpt-4" />
+    <option name="enableContext" value="true" />
+    <option name="enableGPT35StreamResponse" value="true" />
+    <contentStatesAll>
+      <list>
+        <ChatGPTContentState>
+          <enable>true</enable>
+          <content>EasyCode</content>
+        </ChatGPTContentState>
+        <ChatGPTContentState>
+          <order>1</order>
+          <enable>true</enable>
+          <content>ChatGPT</content>
+        </ChatGPTContentState>
+        <ChatGPTContentState>
+          <order>2</order>
+          <enable>true</enable>
+          <content>GPT-3.5-Turbo</content>
+        </ChatGPTContentState>
+        <ChatGPTContentState>
+          <order>3</order>
+          <enable>true</enable>
+          <content>Online ChatGPT</content>
+        </ChatGPTContentState>
+      </list>
+    </contentStatesAll>
+    <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzAwMDUwMjQ3LCJpYXQiOjE3MDAwNDkzNDcsImp0aSI6IjE0NDcwY2Q4MGM4NTRkZTdhNGRjM2QzNGQ4M2M5NzA0IiwidXNlcl9pZCI6NDcyNjQ5fQ.FQM8jDx8qW6i_UufZ4T0nVI5FiPlmeJ0NKMCJoKi_vk" />
+    <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcwMTI1ODk0NywiaWF0IjoxNzAwMDQ5MzQ3LCJqdGkiOiJjNTA2MjNlZmJjYmU0Y2RlOGQyOGY1YmFiNTAwMWRhYSIsInVzZXJfaWQiOjQ3MjY0OX0.ViGQniyV9lC2OwdfxZslUZhqOksVycT462infmNje4A" />
+    <option name="easyCodeUserEmail" value="ellenord.zelleratumm@gmail.com" />
+    <option name="easyCodeModel" value="gpt-4" />
+  </component>
+</application>
