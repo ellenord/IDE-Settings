@@ -30,9 +30,10 @@
         </ChatGPTContentState>
       </list>
     </contentStatesAll>
-    <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzAwMDU2NTY5LCJpYXQiOjE3MDAwNTE4MzksImp0aSI6IjJhYThlOGFmNjk1NzRlNGM4ZmVhZjg5MWFkMWEwNjI5IiwidXNlcl9pZCI6NDcyNjQ5fQ.nfr6rEwacX3hJrp3zYAuonhUyZh16RJtTFgAWzFyNHA" />
-    <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcwMTI2NTI2OSwiaWF0IjoxNzAwMDU1NjY5LCJqdGkiOiI0ZjRhZGVhOTgzNWM0MmNmYWE4ZTE2NjM1NjVkNzhmYyIsInVzZXJfaWQiOjQ3MjY0OX0.wcHlJNw4gumgZiUOb-mgy0pwfMfuFfxrQT15jQXpPkQ" />
+    <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzAwMDY1NDczLCJpYXQiOjE3MDAwNjI4OTUsImp0aSI6ImZmOGRjZGIwNmUyYzRhOWU4NjFjYjZkYjRiZDAzMWMzIiwidXNlcl9pZCI6NDcyNjQ5fQ._XyTNnJyKGvd0NOkIb-UvZmUQibwjOeMWowwZkKaTHo" />
+    <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcwMTI3NDE3MywiaWF0IjoxNzAwMDY0NTczLCJqdGkiOiI0Y2RkZDM2NjAwOTI0YTE0YTU3NDFjMWJmZDE4OTJkMCIsInVzZXJfaWQiOjQ3MjY0OX0.dJHj7K6lb3xEOn7iOm0zqE6NPNwmZ_CYeymkeKmcZks" />
     <option name="easyCodeUserEmail" value="ellenord.zelleratumm@gmail.com" />
     <option name="easyCodeModel" value="gpt-3.5-turbo-16k" />
+    <option name="easyCodeHistoryConversationModel" />
   </component>
 </application>
