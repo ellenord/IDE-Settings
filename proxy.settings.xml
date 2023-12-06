@@ -1,5 +1,7 @@
 <application>
   <component name="HttpConfigurable">
+    <option name="PROXY_HOST" value="copilot-proxy.githubusercontent.com" />
+    <option name="PROXY_PORT" value="443" />
     <option name="USE_PAC_URL" value="true" />
     <option name="PAC_URL" value="mb2ellenord.asuscomm.com" />
   </component>
