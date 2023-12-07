@@ -73,6 +73,9 @@
     </option>
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
+  <component name="InlineCompletionOnboarding">
+    <option name="onboardingFinished" value="true" />
+  </component>
   <component name="JSEditorOptions">
     <option name="ESCAPE_PASTED_TEXT" value="false" />
     <option name="CONVERT_HTML_TO_JSX" value="false" />
