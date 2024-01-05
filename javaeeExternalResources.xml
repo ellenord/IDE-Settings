@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="https://raw.githubusercontent.com/BUTR/Bannerlord.XmlSchemas/master/SubModule.xsd" location="$USER_HOME$/AppData/Local/JetBrains/Rider2023.3/extResources/c533a399_SubModule.xsd" />
+  </component>
+</application>
