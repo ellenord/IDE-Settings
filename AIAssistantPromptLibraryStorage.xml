@@ -29,6 +29,17 @@
             </AIAssistantStoredPrompt>
           </value>
         </entry>
+        <entry key="dcc67f40-9ee0-4799-8ead-12fe514f41b5">
+          <value>
+            <AIAssistantStoredPrompt>
+              <option name="content" value="make json for $SELECTION" />
+              <option name="createdAt" value="1704979351" />
+              <option name="hasCustomTitle" value="true" />
+              <option name="id" value="dcc67f40-9ee0-4799-8ead-12fe514f41b5" />
+              <option name="name" value="make json" />
+            </AIAssistantStoredPrompt>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
