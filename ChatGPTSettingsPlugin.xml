@@ -8,7 +8,7 @@
     <option name="enableContext" value="true" />
     <option name="assistantApiKey" value="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" />
     <option name="enableGPT35StreamResponse" value="true" />
-    <contentStatesAll>
+    <contentStatesNoChatGPT>
       <list>
         <ChatGPTContentState>
           <enable>true</enable>
@@ -16,22 +16,18 @@
         </ChatGPTContentState>
         <ChatGPTContentState>
           <order>1</order>
-          <content>ChatGPT</content>
-        </ChatGPTContentState>
-        <ChatGPTContentState>
-          <order>2</order>
           <enable>true</enable>
           <content>GPT-3.5-Turbo</content>
         </ChatGPTContentState>
         <ChatGPTContentState>
-          <order>3</order>
+          <order>2</order>
           <enable>true</enable>
           <content>Online ChatGPT</content>
         </ChatGPTContentState>
       </list>
-    </contentStatesAll>
-    <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzAyMDUzNDMyLCJpYXQiOjE3MDE5MDY2MTQsImp0aSI6IjYxMTQ0MWVjODU5MDQ5ZDVhMjVjYjE2YmIyYmE0ZWI1IiwidXNlcl9pZCI6NDcyNjQ5fQ.MvSKIe7ncbJJOKltWjK3Ah3CxRNtAHiADj94DCa5Qkg" />
-    <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcwMzI2MjEzMiwiaWF0IjoxNzAyMDUyNTMyLCJqdGkiOiIwMTEwMmQ4NDI0YTA0Yzg4YmI1ZmFhZDdjYWU3NGIzMiIsInVzZXJfaWQiOjQ3MjY0OX0.3AqZbJYHRtsjK6XCbbi5AGusbE2Nmu_4GTfdRmHTr2A" />
+    </contentStatesNoChatGPT>
+    <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzA1NzI3MTc5LCJpYXQiOjE3MDU3MDI4NzcsImp0aSI6ImVkZjc5MDk5MWNjMjRjYmM4MGRiZjU4MDliZjZkNzM3IiwidXNlcl9pZCI6NDcyNjQ5fQ.3ZDegfyJIXPCPqyPUEfS23u0VxeMmLnFVDYrJUZxKNs" />
+    <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcwNjkzNTg3OSwiaWF0IjoxNzA1NzI2Mjc5LCJqdGkiOiJmMzVlZmE0NzU5MDY0ZGIxYTYzMjg3YzIyNDkxZmYyNSIsInVzZXJfaWQiOjQ3MjY0OX0.AG5Z7CL2zUEEcFVUO1wc9GoNOMg8Vfo07wM9H6HUq68" />
     <option name="easyCodeUserEmail" value="ellenord.zelleratumm@gmail.com" />
     <option name="easyCodeHistoryConversationModel" />
   </component>
