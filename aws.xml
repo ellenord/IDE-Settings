@@ -1,5 +1,38 @@
 <application>
+  <component name="authManager">
+    <option name="ssoProfiles">
+      <list>
+        <ManagedSsoProfile>
+          <option name="scopes">
+            <list>
+              <option value="codewhisperer:completions" />
+              <option value="codewhisperer:analysis" />
+              <option value="codewhisperer:conversations" />
+            </list>
+          </option>
+          <option name="ssoRegion" value="us-east-1" />
+          <option name="startUrl" value="https://view.awsapps.com/start" />
+        </ManagedSsoProfile>
+      </list>
+    </option>
+  </component>
   <component name="aws">
     <option name="promptedForTelemetry" value="true" />
+  </component>
+  <component name="codewhispererUserGroupSettings">
+    <option name="settings">
+      <map>
+        <entry key="userGroup" value="Control" />
+      </map>
+    </option>
+    <option name="version" value="2.5-233" />
+  </component>
+  <component name="connectionPinningManager">
+    <option name="pinnedConnections">
+      <map>
+        <entry key="aws.codewhisperer" value="sso;us-east-1;https://view.awsapps.com/start" />
+        <entry key="aws.q" value="sso;us-east-1;https://view.awsapps.com/start" />
+      </map>
+    </option>
   </component>
 </application>
