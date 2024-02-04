@@ -5,9 +5,9 @@
     <option name="expireTime" value="2024-02-13T11:51:18.165Z" />
     <option name="apiKey" value="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" />
     <option name="chatGptModel" value="gpt-4" />
-    <option name="enableContext" value="true" />
+    <option name="gpt35Model" value="gpt-4-32k" />
     <option name="assistantApiKey" value="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" />
-    <option name="enableGPT35StreamResponse" value="true" />
+    <option name="enableTokenConsumption" value="true" />
     <contentStatesNoChatGPT>
       <list>
         <ChatGPTContentState>
@@ -16,7 +16,6 @@
         </ChatGPTContentState>
         <ChatGPTContentState>
           <order>1</order>
-          <enable>true</enable>
           <content>GPT-3.5-Turbo</content>
         </ChatGPTContentState>
         <ChatGPTContentState>
@@ -26,9 +25,10 @@
         </ChatGPTContentState>
       </list>
     </contentStatesNoChatGPT>
-    <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzA2NjcxODIwLCJpYXQiOjE3MDYwOTI1OTQsImp0aSI6IjAyMTBlYWQ5ODkxMDRlOGZhYTZhYThhOWY3MWRhMmE1IiwidXNlcl9pZCI6NDcyNjQ5fQ.A-HF4xxc_pPSceMx2AhLFv3zzBC0tBgxDOC_ngKyDwo" />
-    <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcwNzg4MDUyMCwiaWF0IjoxNzA2NjcwOTIwLCJqdGkiOiJmNWIzY2FhZWIwMmY0Zjc5YmQxNWIzOTJlNjQ2MGFkNSIsInVzZXJfaWQiOjQ3MjY0OX0.5iXDXkgoJ55DMiWjLlJ7nAD6FfSzXyW0Eg_ZQ6wQ4oE" />
+    <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzA3MDA3NzE3LCJpYXQiOjE3MDY2NzA5MjAsImp0aSI6ImQ2MmVhMWQxYzY2ODRhOGI4MDE5YmUwZjM0NDZlMzY3IiwidXNlcl9pZCI6NDcyNjQ5fQ.xavIfqYdytrYJv7f2w3Ay6ziJ5LWL9BqEnoYEtaCzE4" />
+    <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcwODIxNjQxNywiaWF0IjoxNzA3MDA2ODE3LCJqdGkiOiIwNzRkY2Q3ZDQyYzI0ZDRiYTExYWJlM2FjN2QxM2MxYiIsInVzZXJfaWQiOjQ3MjY0OX0.hi7lJgrCl7BrtDexU_wIT_Hd0X3oVbvG6WHf3TYW9BA" />
     <option name="easyCodeUserEmail" value="ellenord.zelleratumm@gmail.com" />
+    <option name="easyCodeModel" value="gpt-3.5-turbo-16k" />
     <option name="easyCodeHistoryConversationModel" />
   </component>
 </application>
