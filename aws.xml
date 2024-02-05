@@ -5,6 +5,7 @@
         <ManagedSsoProfile>
           <option name="scopes">
             <list>
+              <option value="codecatalyst:read_write" />
               <option value="codewhisperer:completions" />
               <option value="codewhisperer:analysis" />
               <option value="codewhisperer:conversations" />
@@ -37,6 +38,7 @@
   <component name="connectionPinningManager">
     <option name="pinnedConnections">
       <map>
+        <entry key="aws.codecatalyst" value="sso;us-east-1;https://view.awsapps.com/start" />
         <entry key="aws.codewhisperer" value="sso;us-east-1;https://view.awsapps.com/start" />
         <entry key="aws.q" value="sso;us-east-1;https://view.awsapps.com/start" />
       </map>
